@@ -4,7 +4,7 @@ api_sdk目录中的目录名lib改成了Aliyun
 
 ### 使用
 
-查看 composer 依赖库中的samples/sendSms.php
+查看依赖库中的samples/sendSms.php
 
 
 ### 相关资料
