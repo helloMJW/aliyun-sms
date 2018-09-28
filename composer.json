@@ -1,0 +1,22 @@
+{
+    "name": "hellomjw/aliyun-sms",
+    "description": "阿里云短信",
+    "keywords": ["sdk", "aliyun", "aliyun-sms"],
+    "authors": [
+        {
+            "name": "hellomjw",
+            "email": "majianwei168@outlook.com"
+        }
+    ],
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { 
+            "Aliyun\\": "Aliyun/"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
