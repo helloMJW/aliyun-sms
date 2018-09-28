@@ -9,4 +9,4 @@ api_sdk目录中的目录名lib改成了Aliyun
 
 ### 相关资料
 
-[官方文档-阿里云短信接口PHP-SDK]](https://help.aliyun.com/document_detail/61994.html)
+[官方文档-阿里云短信接口PHP-SDK](https://help.aliyun.com/document_detail/61994.html)
